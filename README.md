@@ -9,6 +9,6 @@ A robust Python command-line tool that fetches real-time currency exchange rates
 - **User-Friendly Loops:** Continuous prompts until valid data is provided.
 
 ## How to Install 🛠️
-1. Clone the repository:
+1. **Clone the repository:**
    ```bash
-  git clone https://github.com/ghaidnddf/Currency-Converter-Python.git
+   git clone [https://github.com/YourUsername/Currency-Converter-Python.git](https://github.com/YourUsername/Currency-Converter-Python.git)
